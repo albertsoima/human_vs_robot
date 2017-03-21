@@ -1,5 +1,5 @@
 # Machine Learning Group Project
-## Author: Albert Ma, Lin Chen, Vincent Rideout
+## Authors: Albert Ma, Lin Chen, Vincent Rideout
 
 ### Intrduction
 We were able to achieve AUC ROC score of 0.9207 and scored the top 23% in the Kaggle leaderboard.

@@ -2,7 +2,8 @@
 ## Author: Albert Ma, Lin Chen, Vincent Rideout
 
 ### Intrduction
-We were able to achieve AUC ROC score of 0.9207 and scored the top 23% in the Kaggle leaderboard. \n
+We were able to achieve AUC ROC score of 0.9207 and scored the top 23% in the Kaggle leaderboard.
+
 Scripts are sorted by chronological order with 00 prefix being the first and 05 prefix being the last. This repo also contains the final feature set for building our model.
 
 ### 00_featureIPMerchandiseCountry.py
